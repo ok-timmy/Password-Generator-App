@@ -76,3 +76,11 @@
      width: 100%;
      cursor: pointer;
  }
+
+@media screen and (max-width: 400px) {
+    
+     .pw-container {
+         width: 100%;
+         margin: 0 1rem;
+     }
+ }
